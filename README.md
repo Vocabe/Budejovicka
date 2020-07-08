@@ -1,2 +1,2 @@
-# Budejovicka
-Budejovicka portal
+# Vocabe
+RAS portal
